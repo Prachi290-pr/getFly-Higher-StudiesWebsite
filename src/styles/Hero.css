@@ -1,0 +1,39 @@
+.hero {
+    height: 400px;
+    margin-top:50px;
+    background-image: linear-gradient(rgb(68, 112, 132),rgb(28, 78, 100));
+    
+    
+    .flexCol{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding-top: 60px;
+        
+       
+
+        p{
+            padding: 20px;
+            font-size: 45px;
+
+        }
+        
+        
+    }
+
+    .flexAns{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        p{
+            color:greenyellow;
+        }
+        
+    }
+
+    p{
+        
+        font-size: 80px;
+    }
+}
+
